@@ -1,4 +1,4 @@
-# Project Name
+# Next js , Shadcn tailwind boilerplate with darkmode
 
 ## Description
 Welcome to our awesome project! This is a JavaScript and TypeScript project utilizing Tailwind CSS with some cool shadow effects. 
