@@ -11,7 +11,7 @@ Welcome to our awesome project! This is a JavaScript and TypeScript project util
 ## Installation
 1. Clone this repository.
 2. Run `npm install` to install dependencies.
-3. Start the development server with `npm start`.
+3. Start the development server with `npm run dev`.
 4. Open your browser and navigate to `http://localhost:3000`.
 
 ## Usage
